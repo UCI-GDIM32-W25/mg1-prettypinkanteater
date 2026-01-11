@@ -2,7 +2,15 @@
 # HW1
 ## Devlog
 Write your Devlog here!
+Audrey Hu, she/her
 
+ 
+Write about how the plan you wrote in the MG1 break-down activity connects to the code you wrote. Cite specific class names and method names in the code and GameObjects in your Unity Scene.
+If your plan changed significantly after reviewing the Prof’s example finished plan or because of decisions you made while coding, note what changed and why.
+
+Remove prompt before submisssion.
+
+The plan I wrote in the MG1 break-down activity connects to the code I wrote by
 
 ## Open-Source Assets
 If you added any other outside assets, list them here!
